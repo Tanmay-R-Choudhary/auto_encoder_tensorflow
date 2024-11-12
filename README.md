@@ -35,4 +35,4 @@ I used the Adam optimizer and the Mean Square Error loss function. Here is a sam
 ## Improvements
 Using a bigger model and training on a larger dataset would decrease the loss of the model and thus make it more accurate.
 
-Here is the link of the actual file on Kaggle: https://www.kaggle.com/tanmaychoudhary/auto-encoder-using-tensorflow
+Here is the link of the actual file on Kaggle (the encoder and decoder models are available for download): https://www.kaggle.com/tanmaychoudhary/auto-encoder-using-tensorflow
